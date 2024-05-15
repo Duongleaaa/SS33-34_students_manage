@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function AddButton() {
   return (
-    <div>AddButton</div>
+    <>
+    <button className='add-button'>Thêm mới sinh viên</button>
+    </>
   )
 }
